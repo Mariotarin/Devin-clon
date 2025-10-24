@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+body {
+    font-family: 'Questrial';
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    color: rgba(7, 7, 121, 0.782);
+    align-items: center;
+    padding: 15px;
+}
+
+.container .icono {
+    width: 25px;
+    filter: invert(50%);
+}
+
+.titulo-cabecera {
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.container1 {
+    padding: 110px 30px;
+
+
+
+}
+
+.container1 h1 {
+    color: rgba(7, 7, 121, 0.782);
+    font-weight: 800;
+
+}
+
+.container1 .digital-future {
+    color: rgb(0, 166, 255);
+    font-weight: 800;
+    text-decoration-line: underline;
+
+}
+
+.container1 .star-journey {
+    color: white;
+    background-color: rgb(0, 166, 255);
+    width: 176px;
+    height: 50px;
+    border: none;
+    border-radius: 6%;
+}
+
+.container1 .play-circle {
+    border: none;
+    background-color: white;
+}
+
+.icono-play {
+    background-color: rgb(0, 166, 255);
+    border-radius: 100%;
+}
