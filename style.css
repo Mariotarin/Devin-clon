@@ -204,6 +204,7 @@ body {
 }
 
 .container5 h2 {
+    align-items: center;
     text-align: center;
     margin-top: 80px;
     color: rgba(7, 7, 101, 0.782);
@@ -349,7 +350,7 @@ body {
 }
 
 .items-con7 {
-    padding: 10px;
+    padding: 20px;
 }
 
 .enlace-explore {
@@ -361,4 +362,75 @@ body {
 .img-final {
     width: 290px;
     border-radius: 1cap;
+}
+
+.container8 {
+    text-align: center;
+}
+
+.container8 h2 {
+    color: rgba(6, 6, 85, 0.782);
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-top: 70px;
+}
+
+.p-testimonials {
+    padding: 15px;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.fotito {
+    width: 70px;
+    border-radius: 10cap;
+    margin-bottom: 20px
+}
+
+.container8 p {
+    padding: 35px;
+    font-size: 0.9rem;
+    color: gray;
+    border-bottom: 10px;
+
+}
+
+.container8 h5 {
+    color: rgba(6, 6, 85, 0.782);
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 2px;
+}
+
+.container8 span {
+    color: gray;
+    font-size: 0.8rem;
+}
+
+.container8 .chat {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container8 .chat img {
+    width: 25px;
+    background-color: rgba(127, 255, 212, 0.448);
+    border-radius: 10cap;
+    margin-right: 25px;
+}
+
+.container8 button {
+    justify-items: flex-end;
+    width: 40px;
+    height: 40px;
+    border-radius: 10cap;
+    margin-right: 10px;
+    background-color: rgba(3, 138, 211, 0.72);
+}
+
+.botones {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40px;
 }
